@@ -1,0 +1,132 @@
+k means label: 0 
+Samples from the same cluster: 
+1)At a party I met a girl who drew me to her, told me some nonsense and always wanted to kiss me.|5|3|0        2)When my grandfather was sick, and died I felt more sad, though, when he was sick.|4|2|0
+1)My boy-friend came home late one night without having told me about it before.|3|3|0        2)I noticed that Meryl Streep and I had similar cheekbones and jaw structure.|1|2|0
+1)I had promised to call a girl but I did not do it.|7|1|0        2)I was enjoying the company of bird life while I was eating lunch in a park when a group of people began throwing sticks at some of the birds - for no reason other than the satisfaction of seeing them being scared away.|3|1|0
+1)When i was asked to be a child's godmother.|1|4|0        2)Some friends and I were crossing a street when one of my friends was seized by a car and thrown aside. I had seen the car coming in our direction but I did not have enough time to react and prevent the accident.|2|3|0
+1)At a cash desk where I had gone to buy 16 rolls of kitchen paper at a reduced price.  After queuing with screaming children; it turned out that I had taken two 8 roll packets instead of the one 16 roll packet to which the rebate applied.  The assistant said \You will have to get it another time.\""|3|2|0        2)In a public swimming hall I saw a very aggressive man who practically attacked the children who got in his way when he was swimming.|5|2|0
+1)Disgust with oneself after being intoxicated enough to go to bed with a stranger.|5|4|0        2)I was coming home from an exam and I supposed that I had passed it so I ran to a restaurant for a beer.|1|3|0
+1)When I approached a person of the opposite sex and was rejected.|6|2|0        2)A rich man expressing disgust towards an alcoholic.|5|3|0
+1)Loneliness, being uncertain of myself in the Autumn.|4|2|0        2)Spots on the seat covers of my husband's car.|6|2|0
+1)When I left my sister's house after staying there for a few days. She has two little boys, and they are very warm people (the family). At the time, I was in need of this sort of contact, and I grew very fond of children (no, I'm not a paedophiliac).|4|3|0        2)Talking about a person's unattractiveness, not realizing that the person was listening.|6|3|0
+1)I heard friends grumbling at me in an adjoining room, although they had behaved in a friendly way when I was present.|3|3|0        2)The sports fishermen who catch gulls instead of fish with their hooks.   It is often a mistake but it makes me angry.|3|2|0
+
+Samples from the different cluster: 
+1)When I was a child, my uncle came to see us. I spit at him and ran out - I do not know the reason for that. My father came after me and insisted on my apologizing.|6|4|0        2)When I look at people around and know that people who are stupid look stupid.|1|4|1
+1)A person with whom I had been on bad terms, gave me a present. We became reconciled.|1|3|0        2)Not speaking to my sister-in-law due to lack of interest in a relationship on my side.|7|1|2
+1)I played in a stage play. Suddenly, in front of 200 people, I could not remember the words I had to say.|6|1|0        2)I drink wine too often.|6|1|3
+1)When I am dishonest to a friend to whom I am very close.  I feel guilty because I know that he gives a different version of the truth and I have not corrected these mistakes, and he is aware that I know that they are wrong.|7|4|0        2)In a course I thought that I deserved good marks but I only got ordinary marks with no justification as to why I was given these marks.|3|3|4
+1)I was not sure whether I should help an old woman going down a flight of stairs. I just watched her and saw how difficult it was for her to do it.|7|3|0        2)Passed an exam by 2 points.|1|2|5
+
+
+
+k means label: 1 
+Samples from the same cluster: 
+1)[ After an examine I had been satisfied with.]|3|2|1        2)I was accused of having drunk a bottle of liquor and then refilling with water.|3|2|1
+1)I locked myself out.|3|3|1        2)When the gear broke on my car.|4|1|1
+1)This is difficult, since I don't remember feeling disgust towards anyone.|5|0|1        2)The long lasting illness of my grand-mother, and the changes in family relationships caused by it.|4|3|1
+1)When one has neglected or been unjust to a good friend.|7|1|1        2)Disgust is a feeling that I have never experienced with peoplie but , on the other hand, it has been with repulsive animals, i;e snakes on T.V.|5|2|1
+1)I was on the Inter Rail in Naples alone. After an evening in a restaurant I was going back to the hotel when a prostitute approached me to sell herself. I refused but as I carried on walking I felt that I was being followed by someone.|2|2|1        2)When my 6 month old son is happy and well.|1|4|1
+1)When my grandfather died, with whom I had a very close relationship.|4|4|1        2)A friend's father had died, I was to come and see this friend although I did not know his family.|2|2|1
+1)When the car I was driving skidded on an icy road and landed in   a ditch with one side against a rock.|2|3|1        2)When the gear broke on my car.|4|1|1
+1)When I was on holiday with my former boyfriend, he hit me and behaved in a very evil and ugly manner in front of the hotel personnel.|6|3|1        2)When my husband and I decided to take a few days holiday after a particularly trying period.|1|2|1
+1)[ No response.]|7|0|1        2)[ When excuses are necessary and I get out of doing it myself.]|7|2|1
+1)[ The same as in anger.]|5|4|1        2)My 2 year old daughter disappeared in a moment of inattention; I was responsible for her.|2|4|1
+
+Samples from the different cluster: 
+1)A drummer who had borrowed my drums destroyed both the drumskin and the sticks.  He did not repair them nor did he tell me about it.|3|4|1        2)I saw a skid-row (chronical) alcoholic and I was ashamed of the people with a high standard of living.|6|4|0
+1)When my grandmother died. I had lived with her for ten years.|4|3|1        2)When we were at home, my husband and I, he made a remark about something I had done, in a perfectly friendly manner.  My deed had been unjust and I knew that my husband was right, therefore my sense of shame.|6|2|2
+1)I got a fairly large amount of my taxes back.|1|2|1        2)When my older sister told us that she was thinking of joining the rest of the family for the winter sports holiday.|1|2|3
+1)[ No response.]|7|0|1        2)Once I arrived two hours late to my work place (a bank) and I was still feeling feeble and tired.|6|3|4
+1)When I was nearly attackad by a man who had been chasing me.|2|4|1        2)Little contact with my father before he died.|7|3|5
+
+
+
+k means label: 2 
+Samples from the same cluster: 
+1)When I think about the short time that we live and relate it to the periods of my life when I think that I did not use this short time.|4|3|2        2)When one is unjustly accused of something one has not done.|3|3|2
+1)When someone close to me is travelling by car and is delayed.|2|3|2        2)When I passed an exam.|1|3|2
+1)I made a comment and it was interpreted completely differently from what I had meant.  When I said it I realized how my mother had understood it.|6|2|2        2)When I dated a close girlfriend's boyfriend a few times. He told me that it was over between them and I accepted it.  When she found out she finished our friendship.|6|3|2
+1)The time I knocked a deer down - the sight of the animal's injuries and helplessness.  The realization that the animal was so badly hurt that it had to be put down, and when the animal screamed at the moment of death.|5|4|2        2)When, as an adult I have been caught lying or behaving badly.|6|2|2
+1)A colleague asked me for some advice and as he did not have enough confidence in me he asked a third person.|3|3|2        2)When it became clear that a man had used many people sexually and psychologically, despite the fact that many people looked up to him.  I understood that one could not trust him and I was forced to hide this for a while.|3|3|2
+1)Dog dirt which thaws in the spring.|5|3|2        2)When I complained about a colleague to the manager and he told her that someone had complained; this colleague came to me believing that I liked her.|7|2|2
+1)I had a summer job in Sweden, and my boyfriend came to meet me on my birthday.|1|3|2        2)When I had just moved into my new appartment I found a ventilator in the kitchen.  I was going to clean it when I found that the drum was full of mud and slime.  I felt disgusted.|5|3|2
+1)When my child was born.|1|4|2        2)I had a very heavy work load and two colleagues, whom I have nothing against, disturbed me by \terror ringing\", i.e á|3|3|2
+1)My mother revealed personal details about me and the negative aspects of my character to other people when I was present but unable to defend myself.|6|4|2        2)When I was 13 years old I wrote passionate love letters to my boyfriend and I later found out that his sister had read them.|6|4|2
+1)I was accused of having done something, which I hadn't and got very angry.|3|3|2        2)When a member of the family complains about the food that is served, it disgusts me.|5|1|2
+
+Samples from the different cluster: 
+1)I drink wine too often.|6|1|2        2)I had a singing-lesson, but I was not very good. The last exercise was singing scales. I did that very well and my teacher seemed satisfied.|1|3|0
+1)I locked myself out.|3|3|2        2)Before a hospital visit prior to a D&C under anasthesia for an expected miscarriage.|2|4|1
+1)When I \hated\" one of mmy flatmates who was nice to me."|7|2|2        2)A nightmare.  I was dreaming about bloodsuckers, which I tried to shake off from my body, they are everywhere, they get glued, they suck.  And there are a lot of them.  I panic.|5|1|3
+1)When as an 8 year old, I wet myself in school.|6|3|2        2)At the underground station, a drunkard came to speak to me.  He tried to ask me something but I did not answer so he began to speak about me with his companion.  I detested this dirty growling man.|5|1|4
+1)When I realized that I was directing the feelings of discontent with myself at my partner and this way was trying to put the blame on him instead of sorting out my own feeliings.|6|2|2        2)[ No response.]|1|0|5
+
+
+
+k means label: 3 
+Samples from the same cluster: 
+1)Before Uni started, I had to leave home and take up residence in Brisbane (the \big smoke\") leaving home, my family, and moving to á|2|1|3        2)When I applied for a job which I thought I had a good chance of getting, I was not even granted an interview and did not get the job.|4|4|3
+1)When I knew that a person who I didn't like, had about me other feelings.|5|2|3        2)The sports fishermen who catch gulls instead of fish with their hooks.   It is often a mistake but it makes me angry.|3|2|3
+1)I told my friend about how I had calculated my salary by cheating a little.  When my friend remarked about it, I understood that it was wrong to do so, and I felt ashamed.|6|3|3        2)I was in the dark room, it's insecure and has holes covered with wooden sheets in the roof the establishment had already been assaulted and could be assaulted again.|2|2|3
+1)When people remember us and shows interest about what we do.|1|3|3        2)After 3 weeks I saw my girlfriend again.|1|3|3
+1)When I was a child, my beloved cat gave birth to four beautiful little kittens. Before she had them, she came up to me and I followed her out, then witnessed them being born.|1|4|3        2)When my partner was attacked and lost three teeth.|3|4|3
+1)One day I heard from a friend that the boy I loved had gone out with her and not with me.|4|2|3        2)I did not quite succeed in breast feeding my baby.|4|4|3
+1)Old man in hospital, hollow-cheeked, only one half of his nose and glass-eye, rattling breath.|5|2|3        2)When I was able to buy my new car, after lots of problems.|1|1|3
+1)I was sitting in a restaurant with friends and I knew that in the meantime my girl-friend must have come to my flat and found the door closed.|7|2|3        2)Unknown person knocking repeatedly on backdoor when no one else was at home.|2|2|3
+1)At an undeserved attitude toward a man, when human personality is not treated decently.|3|2|3        2)When we were in high school a few guys sometimes provoked a friend of mine.  They called her a pig and then grunted.  This irritated most of the girls.  Once, one of the girls got angry at my friend and said something nasty and this made me terribly angry.|3|4|3
+1)When my nephew was born. The birth was hard, it was a big baby.|1|4|3        2)When, for the first time I realized the meaning of death.|2|4|3
+
+Samples from the different cluster: 
+1)A friend told me about his cousin who is my girlfriend. He said she had treated him in a mean and nasty way. I was surprised because in front of other people she had always treated him in a friendly way. I am very sad about it.|4|4|3        2)When I got a bad result for one of my assignments.|6|2|0
+1)I put my head into the pullover of a girl to see her breasts. The girl looked at me so that I felt ashamed.|6|4|3        2)By mistake I took a book from the library which was not supposed to be loaned out.|7|3|1
+1)I thought him a good friend but he tried to lie to me several times. Last time was the height of impudence. He promised he would come home but he didn't. I felt a sense of anger and insult.|3|3|3        2)When, as a child, I was nearly knocked down by a car.|2|3|2
+1)We had a day off from school. Instead of helping my mother with her job, I stayed in bed all day.|7|3|3        2)When I was not accepted as a student in finance and accounting.|4|3|4
+1)I bacame involved with a boy for a very brief moment not because I liked him but because I needed some sort of company. The consequences weren't as I expected and caused me much shame.|6|2|3        2)A close acquaintance of the family died of lung cancer.  Although it was expected, I still felt depressed.|4|4|5
+
+
+
+k means label: 4 
+Samples from the same cluster: 
+1)When my friend, as usual, forgot the tickets at home for a performance.  We missed it.|3|4|4        2)When I met a friend whom I had not seen for a long time and heard all about her troubles, I thought that I should have got in touch with her earlier.|6|2|4
+1)Slept in a chapel and in the middle of the night I realized that there was someeone else in the chapel.  I never discovered who it was and why he was there.|2|3|4        2)When my middle child became very difficult to handle after the birth of his baby brother and I did not have any patience with him.|7|2|4
+1)When I was forced to call the telephone company about a bill concerning a disconnected phone belonging to my landlord.  The bill was four months overdue and in the meanwhile he had been using my phone, he seemed to have no intention of having his own phone reconnected.|3|2|4        2)When I complained to my mother about how untidy the kitchen loooked, she boxed my ears ( this had never happened before).|6|3|4
+1)At primary school, when I vomited in front of others in the middle  of a lesson.|6|3|4        2)When I recently got a very positive answer from a clinic telling me that they would willingly assist and collect data for me for a clinical pilot study.|1|2|4
+1)Slept in a chapel and in the middle of the night I realized that there was someeone else in the chapel.  I never discovered who it was and why he was there.|2|3|4        2)I was accused of a misdemeanour, unjustly.|3|1|4
+1)I talked to my boyfriend on the phone when I was in high spirits and had a lot to tell him.  I had been looking forward to this conversation and he did not listen to me to the extent that I had anticipated.|4|1|4        2)When after a lot of provocation my child threw a plate on the floor.|3|3|4
+1)When my friend, as usual, forgot the tickets at home for a performance.  We missed it.|3|4|4        2)I do not study enough as I do not understand it properly.|7|2|4
+1)When, as an adult I have been caught lying or behaving badly.|6|2|4        2)When I was finally qualified for my profession.|1|4|4
+1)A lady I live with had not bothered to clean up before she went   on holiday (I live in a collective).|3|4|4        2)I worked at a lawyer's office during Summer and I got a very good reference from him.|1|3|4
+1)When someone makes advances that one does not want.|5|4|4        2)When a mistake occurred at work which I was not responsible for.  This was disclosed later.|7|2|4
+
+Samples from the different cluster: 
+1)When I did not speak the truth.|6|3|4        2)While cycling in the country a dog started running beside me, growling and barking, and trying to bite my foot.|2|3|0
+1)When my older sister told us that she was thinking of joining the rest of the family for the winter sports holiday.|1|2|4        2)When one has neglected or been unjust to a good friend.|7|1|1
+1)During the period of falling in love, each time that we met and especially when we had not met for a long time.|1|3|4        2)When one lets friends down|7|3|2
+1)[ No response.]|4|3|4        2)When I asked my girlfriend to marry me.|1|3|3
+1)When I was accepted for a course on finance and accounting.|1|3|4        2)After an operation I had to stay in bed for a long time.|4|3|5
+
+
+
+k means label: 5 
+Samples from the same cluster: 
+1)I met a dear friend of mine after a long time.  I expressed my feelings in our own usual way, by mutual scolding and abusing (with complete understanding) and by touching, patting and taking the hand of the other person, etc...|1|4|5        2)[ Can not remember.]|5|0|5
+1)When I spoke to Jan-Erik Wikstr÷m on the telephone. |3|2|5        2)When I had to leave my mother and my sister after a week's visit.|4|4|5
+1)When I was nearly attackad by a man who had been chasing me.|2|4|5        2)When my father and I worked on the house just after he had recovered from illness, I was rather lazy.  This meant that he had to work hard and was not very well later.|7|3|5
+1)When I saw all the very drunk kids (13-14 years old) in town on Walpurgis night.|5|1|5        2)When one meets new people with whom one is forced to collaborate with.|2|4|5
+1)When I saw a picture, in the Gothenburg Post, of a totally demolished car with two fatally injured passengers.  The car was so badly damaged that they couldn't get the bodies out at the scene of the accident.|5|3|5        2)When I found out that I had passed the last two exams by a margin of three marks.|1|3|5
+1)After an operation I had to stay in bed for a long time.|4|3|5        2)When I saw a large spider crawling up the wall.|2|2|5
+1)My sweetheart left me, or rather we decided to break it off by mutual consent.  The consequences were - unrestrained weeping, feelings of loneliness, hopelessness and disconsolation.  I felt that I should find a friend, to talk to joyfully and to forget.|4|4|5        2)I was going home by car late one night when it was cold, dark and windy.  I became rather panicky on the way to my house.|2|3|5
+1)When I had been obviously unjustly treated and had no possibility of elucidating this.|3|4|5        2)[ No response.]|4|0|5
+1)I experience feelings of guilt because I do not study enough.|7|2|5        2)When one has neglected or been unjust to a good friend.|7|1|5
+1)When I was deputy manager during the Summer, certain deputies took liberties, more than what was normal.|3|3|5        2)My sweetheart left me, or rather we decided to break it off by mutual consent.  The consequences were - unrestrained weeping, feelings of loneliness, hopelessness and disconsolation.  I felt that I should find a friend, to talk to joyfully and to forget.|4|4|5
+
+Samples from the different cluster: 
+1)When I was in a little fishing boat and we ran into hard weather in the open sea.|2|3|5        2)When I noticed that a person I found attractive had seen me picking my nose.|6|2|0
+1)[ On days when I feel close to my partner and other friends.  When I feel at peace with myself and also experience a close contact with people whom I regard greatly.]|1|3|5        2)A colleague's 17 year old daughter is seriously ill with cancer and has only a year to live.  I  heard about it 6 weeks ago.|4|4|1
+1)One night I had a sexual intercourse with another man.  My sexual desire and my curiosity had made me jump into bed with him.  I am ashamed of myself now.|6|4|5        2)We were in a disco and the evening was not at all pleasant.  Despite my not knowing why, I was angry with my companion.  I let him feel my bad humour as I cannot hide my feelings.|3|2|2
+1)When, for the first time I realized the meaning of death.|2|4|5        2)When I heard about the way a parent of a friend had mistreated him, and caused a great instability.|5|3|3
+1)When I found out that I had passed the last two exams by a margin of three marks.|1|3|5        2)By mistake I took a book from the library which was not supposed to be loaned out.|7|3|4
+
+
+
