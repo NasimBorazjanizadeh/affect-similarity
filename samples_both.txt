@@ -1,132 +1,167 @@
 k means label: 0 
 Samples from the same cluster: 
-1)[ No response.]|7|0|0        2)[ No answer as I see very little difference between shame and guilt.  Therefore see answer for \shame\".]"|7|0|0
-1)When I spoke to Jan-Erik Wikstr÷m on the telephone. |3|2|0        2)I have a two-month old baby.  When I came here, to the university, to attend lectures, I had to leave the baby with his father.  I felt guilty.|7|3|0
-1)Two boys whom I know were telling me, in an indecent manner, how they had teased a young and shy girl I know.  They had despised her conviction, scorned and touched her.  I got very angry and did not try to conceal it and gave it back to them.|3|2|0        2)One afternoon, helping at home on the property, I was (mustering) getting in cattle and a bull turned and came for me.|2|3|0
-1)When a colleague failed to contact me at the arranged time.|4|2|0        2)I told my boy friend not to park in a certain place because the car would ger towed away - he didn't listen and it was towed away. At that stage, our finances were below the poverty line & it cost us $10.00 - all the money we had to get us through that week (including rent).|3|4|0
-1)I entered the wrong room, and got into a bed where someone already was sleeping.|6|3|0        2)Risk of being involved in a fight after a party.|2|1|0
-1)I worked in a harbour and emptied latrine containers from the back of the lorries.|5|2|0        2)Being bored in school, not being able to marry and have children.|4|2|0
-1)After hearing about the death of my grandfather.  First I could not believe it, but later I wept and felt the situation was hopeless.  I felt lonely and wanted to be consolated.|4|4|0        2)I had been watching a triller a dark night in the country and I had to go the outside toilet on my own. |2|1|0
-1)It was in a tramway-carriage: A stranger insulted a girl just because she blew her nose. I detested his behaviour.|5|3|0        2)At a gathering I found myself involuntarily sitting next to two people who expressed opinions that I considered very low and discriminating.|5|4|0
-1)A colleague asked me for some advice and as he did not have enough confidence in me he asked a third person.|3|3|0        2)When my father managed to begin a \new life\" after the divorce á|1|2|0
-1)In the student kitchen that we share, somebody drank from my juice pot (one litre) so that I only got one glass out of the whole pot.|3|2|0        2)The first time that I saw a surgeon cut off a leg and put it in a black rubbish bag.|5|2|0
+Score:+1  1)I was on a concert-tour and therefor seperated from my boy-friend. But I needed warmth which was given by a male member of the orchestra. My feelings towards him were not very deep, but his feelings were. I felt guilty when he said \I am not a á|0|  2)When I broke a tea saucer. I felt ashamed. This was during the birthday of my girlfriend.|0|
+Score: 0  1)I had promised to help out with domestic chores and I forgot about it.|0|  2)It happened that I was alone - with no contacts with friends.|0|
+Score:+2  1)My partner left me after we had been together for a long time.|0|  2)I felt sad when my boyfriend and I were apart for some time.|0|
+Score:+2  1)I blew up at someone for being confused and because of his irresponsibility and afterwards I felt guilty and that I had no right.|0|  2)After moving out of my apt. I took all the furniture and dishes and everything. It was mine but I took it all just to spite my roomies. We had a few (a lot) of disagreements. I felt guilt for moving out for the bad reasons.|0|
+Score:+2  1)I felt guilty at not having practised the piano.  I waste my teacher's time and guidance.|0|  2)One day, I was alone on duty when a patient choked while eating.  I ran to her and tried to make her breath, but it was too late.|0|
+Score:+2  1)Yesterday I broke my sister's raio. She hears it always when she has school examinations and now she has examinations.|0|  2)While playing a ball game, I made a mistake and we lost the game.|0|
+Score:+1  1)At a party, I started talking to a guy I had seen in one of my classes. My boyfriend felt awkward and left to talk to a friend but kept on looking at me as I talked.|0|  2)When my relationship with my family is very poor I often fear being excluded from the group, a fear which is stronger in situations when an argument is on hand.|0|
+Score:+1  1)When I decided not to out any longer with a girl whom I liked quite a lot.  This made me feel low for a some time.|0|  2)We were at a party, this guy I liked and me.  I really loved him and gathered enough courage to ask him to kiss me.  He did not do it but instead asked me what I would like for my birthday.  I told him that I would like a kiss more than anything else but he excused himself and said that it was impossible.  I really felt embarassed.|0|
+Score:+1  1)At one time while at primary school I lost a pencil case of a friend and I didn't mention it to her until after a fortnight.|0|  2)I feel guilty when when I realize that I consider material things more important than caring for my relatives.  I feel very self-centered.|0|
+Score:-1  1)When I found a maggot in my food at the dinning hall, all the food had gone bad.|0|  2)When you are far away from relatives and friends. I feel sad for my early years, for the freedom and the carefree years of childhood.|0|
+Sum: 11
 
 Samples from the different cluster: 
-1)When I was working as a nurse in a mental hospital, a patient ate up the contents of another patient's spitoon.|5|3|0        2)When as a child I stole, from a friend of mine, the ring she had got in an easter egg.|7|4|1
-1)My mother accused me of not visiting her enough when she was in hospital for an eye operation.|7|1|0        2)I had intercourse with someone and then I realized that what I had done was wrong and it disgusted me.|5|4|2
-1)When I was accepted as a student of Psychology here at Gutttenburg.|1|3|0        2)When I gave birth to a healthy boy.|1|4|3
-1)The editor changed the heading of an article that I had written.  He considered the heading to be derogatory towards the person I had written about.|3|2|0        2)A dark night when I had to go to the outdoor lavatory.|2|3|4
-1)I complained about a colleague's behaviour as she goes back on her word, is often absent and is irresponsible.  I found out that she was an alcoholic and was trying to fight againt her addiction.|6|4|0        2)When my boyfriend sat up half the night playing computer games with a friend.|3|3|5
-
+Score:-2  1)I had called a boy who had dated me, and told him that I was ill, while, actually, I didn't want to go out with him, later on, he asked me if I was feeling better, then I felt ashamed.|0|  2)I was camping with a friend of mine and we spent the night in the forest.  I could not fall off to sleep and could clearly hear noises from outside (steps ?) approaching our tent.|1|
+Score:-2  1)When the relationship with my first girlfriend broke up and I realized it too late.|0|  2)[ Cycling in the spring sunshine gives me such delight.  Happiness is to be healthy, my wonderful finance.  Simply being here on earth.]|2|
+Score:-2  1)I spoke to my mother on the phone.  She had skin cancer and was waiting to be operated.  I forgot to ask her the date of the operation and just before finishing our conversation she gave me the date in passing. |0|  2)When our religion teacher presented shocking sectarian thoughts and doom's day as official teaching.|3|
+Score: 0  1)I had been separated from my girlfriend for about a year.  On her birthday I put a present in her mailbox.  I had spent two days choosing a suitable present for her.  I waited for a few days and there was no reply from her; at last I received a thank-you card in my mailbox.  On the card there was only my name, the words thank-you  and her signature.  I was very sad then.|0|  2)NO RESPONSE|4|
+Score:-2  1)When I had not prepared my contribution to the group as thoroughly as the other members, with the result that the overall result was poor.|0|  2)When I stayed alone in a house in Great Brittain and there was a lot of rumour in the newspaper about a murderer still being free.|5|
+Score:-2  1)I always feel guilty when I see my mother sad or fed up with life. I really dont know the reason.|0|  2)Someone frightened me in the dark.|6|
+Sum:-10
 
 
 k means label: 1 
 Samples from the same cluster: 
-1)The breaking up of a long lasting relationship.|4|4|1        2)Fighting with my father while drunk.|6|4|1
-1)When I was caught telling a white lie.  At that time, I was not allowed to stay outdoors after 8 p.m.  One day when I was late, I made up a story that our neighbour had invited me to his place, though I had actually forgotten about the time while playing with my pals.|6|3|1        2)When I realized that we are living on borrowed time, and that the nuclear holocaust appears to come closer every day.|2|4|1
-1)I passed an exam which I thought I had failed.|1|1|1        2)When I saw all the very drunk kids (13-14 years old) in town on Walpurgis night.|5|1|1
-1)The thought of having to read a boring book of 400 pages in English.|4|2|1        2)There was a sofa in my flat which belonged to the old tenants who were acquaintances.  It should have been picked up a year ago but they had postponed it.  Eventually they decided on one date and I stayed at home despite the fact that I had other things to do.  They did not come, nor did they call and they still have not got in touch with me.|3|2|1
-1)When I was working as a nurse in a mental hospital, a patient ate up the contents of another patient's spitoon.|5|3|1        2)At using other people, because of sexual experience that was using another to the detriment of both. Anxiety that I may have affected another for the worst.|6|4|1
-1)While cycling in the country, I came across a large herd of cows.|2|0|1        2)I was rock-climbing and absailing & felt OK, but suddenly as I was going over the cliff I was hit by fear - I couldn't go on absailing down the cliff and had to be actually hauled back up it.|2|4|1
-1)Almost crashing my car, something which could have led to great problems.|2|2|1        2)The last day of school is traditionally celebrated by singing a song about all the students who are leaving.  In the song about me, there were things which irritated me a lot.|3|2|1
-1)Being a spokesman for the union, I got into a quarrel with a colleague who had been acting disloyally over a sustained period of time.|3|3|1        2)When I was face to face with my deceived friend after sleeping with his wife.|7|3|1
-1)I did not go to help a friend of mine, though she probably needed me.|7|4|1        2)When in an economic crisis I got an unexpected sum of money.|1|2|1
-1)I was walking home with a friend at night along a quiet street.  Something started rustling in the bush : it was an exhibitionist.|2|4|1        2)I had asked the Salvation Army to take away a piece of furniture of mine, but I forgot to cancel the agreement (a friend of mine took it) and I thereby caused the Salvation Army people some unnecessary work.|7|1|1
+Score:+1  1)When I was cycling past a parked car someone opened the door and nearly pushed me off my bike and into the traffic.|1|  2)Anatomy lesson and told we have to do it at night sometimes.|1|
+Score:-1  1)I was at the seaside and my brother disappeared for a couple of hours.|1|  2)When I stand at the bus stop for one hour waiting for the bus to arrive.|1|
+Score:+2  1)When I was travelling home by bus and suddenly the bus hit and the bus leaned against a wall.|1|  2)We were walking in the park at night.  It was very dark and very late.  We began to hear foot steps all around us, and we could not find our way out.|1|
+Score:-2  1)Finding that a girlfriend of mine was a prostitute and had been seeing many others during our relationship.|1|  2)On Christmas eve I went to a classmate's home with other classmates.  The next morning when I came out of the toilet she said something and I did not understand what she was saying.  When she pointed at my trousers I discovered that I had forgotten to zip them up.  I rushed back to the toilet but by the time the others had guessed what had happened.|1|
+Score:+1  1)When present boyfriend's mother approached my parents and self - to leave her son alone - as she did not want me for a future daughter-in-law.|1|  2)When my dog was stolen.|1|
+Score:+1  1)Getting a low grade on a midterm.|1|  2)Before one of my final exams of the third year - natural sciences.|1|
+Score:+1  1)When I was told that my friend's wife had cancer.|1|  2)When my sister became pregnant at UNZA last year.|1|
+Score: 0  1)Being unable to stop urinating on the bus.|1|  2)While watching the movie called \Deer hunter\" on TV, when it á|1|
+Score:+2  1)A fall during a climb, with almost with no previous experience.|1|  2)When I thought the house was on fire at night.|1|
+Score:+1  1)When I was about seven or eight I was caught having stolen a doll's dress from my next-door neighbour.|1|  1)When I stared to much at a pastry that a woman was eating and at the same instant the pastry felt on the floor.|1|
+Sum: +6 
 
 Samples from the different cluster: 
-1)My sister won a scholarship to Norway and it was particularly as she walked across the tarmac to get on the plane and she looked back at us.|4|4|1        2)When I feel lonely, perhaps because I have to study a lot and I am shut up in my appartment.  Nothing happens in particular because there is no time for anything else.|4|3|0
-1)When others let me down, fail to keep agreements.|3|2|1        2)[ Do not know.]|6|0|2
-1)Being bored in school, not being able to marry and have children.|4|2|1        2)At using other people, because of sexual experience that was using another to the detriment of both. Anxiety that I may have affected another for the worst.|6|4|3
-1)Railway station good-bye.|4|2|1        2)When I was the first to arrive at the scene after an accident, and found that a close school friend had been killed.|2|4|4
-1)Reunion with my wife after a legal separation.|1|4|1        2)When my brother was very late in arriving home from work.|2|4|5
-
+Score:-2  1)I was sleeping alone in the house at night. A boy putting on a short only knocked at the window whispering that I should open for him.|1|  2)The day my teacher of Latin and French died.|0|
+Score:-2  1)Passing by a good friend's home without coming in to visit him.|1|  2)My son lives with my parents in the country and I feel this feeling always when leaving for Sofia, but the last time it was quite strong.|2|
+Score:-1  1)I was taking a shower in a cubicle in France. Then I discovered that a few children were loking at me from the adjacent cubicle.|1|  2)While playing indoor-hockey, there always is an older man who frequently and intentionally plays the ball out of the field. In my opinion this is very childish, because we play for fun only.|3|
+Score:-2  1)When I heard that my father had found a letter from my boyfriend and he was calling me to talk about it.|1|  2)When I failed the entrance exam of the medical school and was studying biochemistry which has no job prospects in Zambia.|4|
+Score:-2  1)When my neighbour's house was broken into and shots could be heard.|1|  2)I had found out that I was pregnant. I talked it over with my boyfriend and he was unsupportive - yet encouraged an abortion - I did.|5|
+Score:+2  1)I was alone in a cottage I often stay in.  I was woken up by a rustling sound in the middle of the night.|1|  2)I was scared when I realized that I might miss the train which I was supposed to take.  I was 1500 Kilometres away from home and when  I heard the depart whistle I was still 150 feet away from the train.  I finally made it.|6|
+Sum: -7
 
 
 k means label: 2 
 Samples from the same cluster: 
-1)When I found out that I had failed to pass my exams during the term by one point.  The fact that exactly the same thing had happened last term did not help.|4|3|2        2)I felt sad at having to leave my girlfriend after constant problems and failed attempts at reconciliation.  My sadness was caused by the irreversibility of the decision.|4|3|2
-1)When I was caught telling a white lie.  At that time, I was not allowed to stay outdoors after 8 p.m.  One day when I was late, I made up a story that our neighbour had invited me to his place, though I had actually forgotten about the time while playing with my pals.|6|3|2        2)When a girlfriend left me.|4|3|2
-1)At a private party I literally fell into the food. The party was completely ruined for the host, carpets had to be cleaned, etc.|6|3|2        2)Being slandered by friends.|3|3|2
-1)The long lasting illness of my grand-mother, and the changes in family relationships caused by it.|4|3|2        2)On the T.V I saw a news feature on South Africa.  A policeman      attacked a group of black people with a whip.|3|3|2
-1)I was nearly knocked down while I was cycling.|2|3|2        2)My boy-friend an I seperated on his initiative.|4|3|2
-1)Death in the close family.|4|3|2        2)In the traffic with a car, I nearly got crushed between a bus and a tram.  The attention of other drivers saved me at the last moment.|2|3|2
-1)I did not quite succeed in breast feeding my baby.|4|4|2        2)I was at home, filling my tax report.  Nobody had time to help me.  I would have liked to do it quickly so that I could go and meet a friend of mine who had just returned from hospital.  I got angry as both my brother and my father refused to give me their calculator as I had not asked for it nicely.  I could not leave as I had to wait for help and the tax report had to be done.|3|4|2
-1)In the dark an unreal figure formed by a shadow.|2|2|2        2)Spit and vomit.|5|4|2
-1)I got to know about the death of a close friend.|4|4|2        2)I was scared in the dark when I was a little boy.|2|3|2
-1)When relatives have acted strangely, and unfriendly towards me.|6|2|2        2)I could not meet my love, after having waited for a month, due to illness.|4|4|2
+Score:-2  1)On a holiday in France I made a walk in the woods all alone and very relaxed. Then a motorbike took me over and I saw the man watching all the time. Suddenly the man stood behing me and I ran away fast.|2|  2)When I realized that I was not working hard enough and was not being useful as an individual to the society or the family, guilt at spending money on uncalled for activities - in short wasting my life.|2|
+Score:+2  1)Made a wonderfull new friend.|2|  2)When I heard what mark I had got at the entrance examination and I realized my admittance to the University was almost certain.|2|
+Score:-1  1)I was sad when I saw that a beautiful girl was not attainable.|2|  2)One of my good friends told people something I had told her in confidence about someone else.|2|
+Score:+2  1)I gave my mom a gift she wanted for years. I raflected her joy.|2|  2)On December the 28th I was filled with Joy when I was told by my bosses that I had been selected to attend a course at the Lilongwe School for Health Scienced in Lilongwe.|2|
+Score:+1  1)I bought a possible answer to a homework problem which was completely inapplicable to the question due to my not having read about the subject matter.|2|  2)I asked my friend to come with me to a disco because I wanted to be with a person I know well. But when I amused myself with others I let my friend sit alone, although I had asked her to come.|2|
+Score: 0  1)It happens sometimes in connection with certain persons with whom I have frequent relationships but nothing special.|2|  2)I put in two years of hard work and it was neither looked at nor appreciated.|2|
+Score:+2  1)[ During a certain period, I felt successful and extremely satisfied.   When I found that any tasks or decisions that I had made were better  than expected.]|2|  2)My friend did not do well in the examn because I did not help him.|2|
+Score:+2  1)When I was told that I had not been successful in getting the job I had been expecting.  I was sure that I was sufficiently qualified.|2|  2)When I found out that I can travel with my best friend.|2|
+Score:+2  1)When I was accepted as a student of Psychology here at Gutttenburg.|2|  2)I received a letter of acceptance from UNZA.|2|
+Score:+2  1)I could not take care of my mother when she was admitted to a hospital  for surgery, I continued my studies as I could not get leave.|2|  2)I couldn't fulfill a request of a girlfriend of mine, though I categorically promised her and I believed there wouldn't be any hindrance. It was partly for objective reasons but also because I couldn't organize myself.|2|
+Sum: 10
 
 Samples from the different cluster: 
-1)I was camping with a friend of mine and we spent the night in the forest.  I could not fall off to sleep and could clearly hear noises from outside (steps ?) approaching our tent.|2|2|2        2)When I discovered that the house we had hired in Tonga was full of cockroaches.|5|3|0
-1)A friend of mine had promised to arrange me some tickets for a concert which I considered important.  He could not get them the way he thought he would, so he gave up the whole thing.|3|3|2        2)[ No response.]|7|0|1
-1)When I boxed my child's ears.|6|3|2        2)When I saw Russian roulette on TV. (obviously the movie \Deer á|2|4|3
-1)A friend of mine was drunk and having an argument on the street with a woman, appparently his girlfriend.  I was walking on the other side of the street and thought that I was not supposed to interfere.  Later I heard that he had shot himself that evening.|7|1|2        2)I worked for seven months in a factory, and made friends with a fellow worker.  Later, I visited my former fellow workers and was told that, while in the army, my friend had shot himself.|4|3|4
-1)When my boyfriend revealed that he knew that I had discovered things of an important nature about him, I felt ashamed as I had not mentioned it earlier.|6|3|2        2)The lift of Stockholm central station stank of vomit and urine.|5|3|5
-
+Score:-2  1)I feel sadness when I only imagine that I could lose a close person. Some time ago I lost a man whom aI greatly respected.|2|  2)I felt guilty when I lied to my parents.|0|
+Score:-2  1)I was using my sister's stereo while everyone was out. I know she wouldn't want me to and I would get into trouble if she found out. But she was only partly justified in forbidding me to use it. She never found out.|2|  2)Little contact with my father before he died.|1|
+Score:-1  1)I feel a strong anger when I am treated unjustly.|2|  2)Saw an arrogant girl walking pass by.|3|
+Score: 0  1)When I was very young and we moved as a family to Auckland from Wellington, this meant new school and friends (etc.).|2|  2)When I saw the film \Johnny got his gun\" which deals with the á|4|
+Score:-2  1)When I received the result slip of the higher level examination (an university entrance exam) and saw that I had a very good possibility of being accepted into the university, I felt very excited.|2|  2)When dropping a carton of boiling soup onto a co-worker's leg - causing great pain, and for me, severe embarassment at my own ineptitude, and shame that another person suffered as a result.|5|
+Score:-2  1)During the summer I received grade cards from my TA's. I expected a B no better in Computer Science. I looked at the card - I got an A - I was ecstatic.|2|  2)I got caught shoplifting a package of gummy bears.|6|
+Sum:-9
 
 
 k means label: 3 
 Samples from the same cluster: 
-1)[ Same as above - friends who torture animals.]|6|2|3        2)When I think that I do not study enough.  After the weekend I think that I should have been able to have accomplished something during that time.|7|2|3
-1)[ No response.]|5|0|3        2)The death of my grandmother.|4|2|3
-1)When I was given detention at secondary school.|6|3|3        2)Meeting a male friend with whose wife I was having an affair.|7|3|3
-1)I entered the wrong room, and got into a bed where someone already was sleeping.|6|3|3        2)When my room-mates were watching video-tapes and prevented me from watching the news.  The first feeling I had was that I was being treated unfairly and then came the feeling of anger.|3|3|3
-1)In a cottage in a large forest, I was alone for a while in the dark.|2|2|3        2)Finding my glasses again after having lost them in town.|1|2|3
-1)On meeting an old friend of mine.|1|3|3        2)It was when I read a newspaper article on the future and they foresaw that we would be eating frog-burgers by the year 2000.  An illustration showed a frog between two pieces of bread.|5|2|3
-1)At the underground station, a drunkard came to speak to me.  He tried to ask me something but I did not answer so he began to speak about me with his companion.  I detested this dirty growling man.|5|1|3        2)When a friend of mine was drawn into a fight because of the stupid gang he belonged to. I felt angry with him and his friends. They could not think about anything sensible, but would fool around without taking into consideration the feelings of other persons.|3|3|3
-1)I happened to see the video-tape movie \This is America - Part á|5|2|3        2)[ No response.]|2|0|3
-1)The birth of my child.|1|4|3        2)I met my ex boyfriend by chance.  We separated a few months ago and I am now with a new boyfriend.  My ex boyfriend looked depressed, and I know I am not to be blamed.|7|3|3
-1)A friend which I hadn't seen for years, sent me a small present.|1|0|3        2)We got into a fight with some chaps in front of our family house. The value of the property destroyed was approximately 15 000 FIM. I felt ashamed when my parents came to know about this.|6|3|3
+Score:+2  1)When at very short notice I agreed to work in place of a friend who was sick, and owner of the restaurant refused to allow me a drink later in the evening (which is usually always available for workers), did not thank me, and was generally indifferent towards me - I felt I did not deserve this.|3|  2)Some students deliberately disobey me as a class leader.|3|
+Score:+2  1)At a restaurant I observed how the gypsies tried to get money by cheating the foreigners i.e non Swedish speaking.  My anger had nothing to do with hatred against foreigners, but it was an expression of the anger I feel when I see people being used .|3|  2)A very close friend of mine was refused entrance to the medical school.  Her grades were very good and she should not have been left out.  Biased judgment !|3|
+Score:+1  1)My father who is very quiet discovered I was going out with a coloured boy. He called me names and was really upset.|3|  2)I felt dusgust with a self-iterested person who ruined the life of another by means of utterly unfair methods.|3|
+Score:+2  1)I was angry when I had not been granted a leave out pass during the last weekend.|3|  2)When I was talking to a person who is a hypocrite, I felt disgusted at his reaction.|3|
+Score: 0  1)When I was 4, we spent our holidays at the seaside. My sister and her friend wanted to go to a bay on an undangerous way. I wanted to arrive before them and went on a shorter, but more dangerous way. When I arrived, I found nobody there. I waited for a long time, but nobody came. On my way back I met my mother who had been searching for me desperatly. She did not scold me, but I saw how much she had worried (herself).|3|  2)Yelled at my parents for not buying me a car like other parents.|3|
+Score:+2  1)My fiancee and I were at my parent's place watching TV. There were  only two TV-chairs and we were sitting on them when my drunken brother came in and rudely chased my fiancee off the chair she was sitting on.|3|  2)I felt angry when my only pair of trousers was stolen and could not be able to find out who the thief was or anyone who knew about the story.|3|
+Score:-2  1)I accused my husband of being late deliberately when he came to pick me up from work.|3|  2)I remember that my form 2 teacher was very fierce and dogmatic.  My feet would tremble whenever I saw her but I had to face the fact that I had to go for her class. |3|
+Score:-2  1)Some boys boasting about their ability to tell dirty jokes.|3|  2)When I misled a person: I said that I would do her a favour and didn't.|3|
+Score:+1  1)Last week a friend of mine called on me and said I was moody and difficult to persuade. With this I got angry with her.|3|  2)I like someone who does not like me and was rude to me.|3|
+Score:-1  1)The emotion came when I misbehaved at school and the Principal threatened me that I was going to be expelled.|3|  2)When a lady I was flirting with told all my class-mates that she was in second year while I was in first year, everyone laughed and started looking at me.|3|
+Sum: 5
 
 Samples from the different cluster: 
-1)I got 100 FIM too much when I changed money at the bank.  They soon called me at my job and the situation was embarrasing for me.|7|4|3        2)[ No response.]|4|0|0
-1)When one is unjustly accused of something one has not done.|3|3|3        2)My parents attitude towards each other when they should become reconciled, despite my father's long-time addiction.|5|2|1
-1)I was unfaithful to my partner once when he was working abroad for a long period.|7|4|3        2)Love problems.|4|3|2
-1)When my boyfriend wanted to leave me, I felt sad and melancholic.|4|4|3        2)When my child was born.|1|4|4
-1)At work, when an elderly man complained unjustifiably about me and distrusted me.|3|3|3        2)When I was not accepted as a student in finance and accounting.|4|3|5
-
+Score:-2  1)Could not get into the university I wanted to get in.|3|  2)When a classmate hit me on my occipital region when I was busy studying and concentrating on my classnotes.|4|
+Score:-1  1)[ Same as in anger.]|3|  2)Finding out that China does not have enough foreign currency to buy books.|1|
+Score:-2  1)My friend had trouble and I was not able to help him.|3|  2)In 1980 when I was in the 12th standard, we had arranged a small picnic in Kandala.  One of my closest friends wrote a small and cute poem for me, which expressed the feeling of closeness we had for each other.  I was very thrilled and I can still remember it.|2|
+Score:-2  1)One day my elder brother badly scolded my father.  This was the first time that I heard such abusive language from my brother.  I requested him humbly not to use this kind of language but he did not care for what I was saying.  Finally I picked up an axe to use against him, in the meanwhile people intervened.|3|  2)When the mother of a good friend of mine died.|0|
+Score:-2  1)It was in a tramway-carriage: A stranger insulted a girl just because she blew her nose. I detested his behaviour.|3|  2)I felt something akin to shame after a heavy night of drinking, along with waking up with a woman I had just met whose husband was an epileptic. I was later to know that she knew my mother.|5|
+Score:-1  1)Once in my work it happened a fight between the person in charge and me. I got so angry and spoke out everything I felt at the moment.|3|  2)Found out my wife (girl-friend?) pregnant.|6|
+Sum:-10
 
 
 k means label: 4 
 Samples from the same cluster: 
-1)When I found out that I had failed to pass my exams during the term by one point.  The fact that exactly the same thing had happened last term did not help.|4|3|4        2)A friend of mine tried to persuade me to go at her place to act as a model because she felt too tired. It was a quarter of an hour before the appointed time, I had just lied down and did not want to go because it was too late anyway. She said that I only was talking about looking for work, but if it was possible I would not accept it. I was angry about this unjust judgment.|3|4|4
-1)Father said: If you are pregnant, you will have to procure abortion. I was filled with disgust against my father.|5|4|4        2)When my grandmother died. I had lived with her for ten years.|4|3|4
-1)When my father was very drunk and raging at home.|2|3|4        2)When I was caught stealing money from my father.|6|4|4
-1)After our sad first of May party, I felt ashamed because the friends who had been invited had to suffer.  We, the organizers of the party, did not drive the intruders away.|6|2|4        2)I was unfaithful to my partner once when he was working abroad for a long period.|7|4|4
-1)I had a discussion with my mother concerning my sister's divorce, we disagreed strongly.|3|1|4        2)My father gave money to my brother but not to me.|4|3|4
-1)Some people were unfairly treated, because of their nationality/colour.|5|3|4        2)I saw a report on T.V news on apartheid in South Africa. |3|4|4
-1)At work a boy was injured because of my lack of supervision.|7|2|4        2)When I caused needless anxiety to a person close to me because of my lack of self-insight.|7|2|4
-1)Someone drove into my car and then denied that it had happened.|3|4|4        2)On the way back from Denmark with a friend on a small yatch, there was a storm and my friend was blown overboard;  I was very scared till I managed to get him back onboard.|2|4|4
-1)When my father managed to begin a \new life\" after the divorce á|1|2|4        2)I felt fear of the purest kind after a car accident.  The incident and images of horror kept coming back to my mind.  I wondered what could have happened to my sister, my friend and me, though nothing very serious actually happened.|2|4|4
-1)A relative of mine had come to see my husband to talk to him about a problem concerning his sister and me.  I was angry because this relative of mine did not dare to speak to me and instead spoke to my husband.  I got to know about it later the same day.|3|4|4        2)When one has been unjust, stupid towards someone else. |6|2|4
+Score: 0  1)I was living with my brother and one day he went away on business and I was left alone to look after the house and the property. At night thieves came and wanted to break into the house.|4|  2)A party with friends on New Year's Eve.|4|
+Score:+2  1)There was a sofa in my flat which belonged to the old tenants who were acquaintances.  It should have been picked up a year ago but they had postponed it.  Eventually they decided on one date and I stayed at home despite the fact that I had other things to do.  They did not come, nor did they call and they still have not got in touch with me.|4|  2)I felt this when I was copying homework for one of my classes.|4|
+Score:+1  1)I lost a conference because I hadn't got in touch with a certain person to inform her that I would go with her. I thought she knew what I wanted.|4|  2)Because of the examination I had to study night and day.|4| 
+Score:-1  1)When my brother was very late in arriving home from work.|4|  2)When my father and I worked on the house just after he had recovered from illness, I was rather lazy.  This meant that he had to work hard and was not very well later.|4|
+Score:+2  1)I saw a friend's husband with another woman.|4|  2)When someone makes advances that one does not want.|4|
+Score:+1  1)When I try to lie.|4|  2)When I had to act alone a character for a public (40 people).|4|
+Score:-2  1)Adultery with the girlfriend of a friend of mine, of which he learned.|4|  2)Receiving a much wanted letter from a very good friend who lives abroad.|4|
+Score:+2  1)I met a friend I had not seen for a long time on the street.|4|  2)When I wanted to talk to someone I liked and whom I have been told likes me (by his brother and even by himself) however he avoids any confrontation, and is vague.|4|
+Score:-2  1)When my father (physically handicapped) asks me to do something and I raise several objections. Often I can fix it in few moments.|4|  2)With the girl whom I may be loved truly. When she refused to come with me to an occasion (she was from another town).|4|
+Sum:3
 
 Samples from the different cluster: 
-1)[ No response.]|4|0|4        2)I drink wine too often.|6|1|0
-1)A relative of mine had come to see my husband to talk to him about a problem concerning his sister and me.  I was angry because this relative of mine did not dare to speak to me and instead spoke to my husband.  I got to know about it later the same day.|3|4|4        2)Some people were unfairly treated, because of their nationality/colour.|5|3|1
-1)One evening I went out with some friends of mine, although I was supposed to stay at home with my little sister who is 11.|7|2|4        2)Accidentally dropped a friends camera flash, so that it was broken.|7|3|2
-1)Last Summer in Italy I was attacked by a dog.It was terrible to feel that untidy dirty dog against my naked skin.|2|4|4        2)Last Summer in Italy I was attacked by a dog.It was terrible to feel that untidy dirty dog against my naked skin.|2|4|3
-1)When my cat vomited and a worm came out which was still alive.  I was forced to wipe it up.|5|2|4        2)The inability to read a book at college.|4|3|5
-
+Score: 0  1)[ No response.]|4|  2)As a child (i.e. 5-7) hiking in reasonably rugged bush and becoming lost for a duration of 5-7 hours.|0|
+Score: 0  1)[ In an aeroplane.]|4|  2)I imagined I heard footsteps up the hall while sleeping in bed one night by myself in the house.|1|
+Score:-2  1)I slammed my little brother into a wall because he was bothering me.|4|  2)I felt joy most strongly some years ago, when I took part in a NH Competition and I was the first.|2|
+Score:-2  1)My roommate refused to walk with me to the English lectures. I have to walk alone in the dark. Lectures are in the biology building.|4|  2)When my mother rejected my boyfriend and made unfair judgements on him.|3|
+Score: 0  1)China cannot buy your reference.|4|  2)Failing an examn because I did not work hard enough.|5|
+Score:-2  1)That was what I felt when I told my first lie and then was cought.|4|  2)When my roommate's boyfriend assaulted me. He was threatening me, calling me names and pushing me around.|6|
+Sum:-6
 
 
 k means label: 5 
 Samples from the same cluster: 
-1)Unexpected visit by a close friend, whom I hadn't seen for half a year.|1|3|5        2)[ No response.]|6|0|5
-1)My episode of fright happened when I came to study.  I had to stand in front of my still unknown fellow students and talk about myself.  My hands shook, I flushed and became tongue-tied.|2|3|5        2)When out of work.|4|3|5
-1)When I saw my 18 year old son grab an oxygen mask as he had breathing difficulties.  I had a bad conscience because I had not stopped smoking.  Medication for the dilation of his breathing tubes also caused a sense of guilt in me.|6|4|5        2)A man spat on the wall of a house.|5|1|5
-1)Treatment to become pregnant with a negative result.|4|2|5        2)When I was cycling past a parked car someone opened the door and nearly pushed me off my bike and into the traffic.|2|4|5
-1)Outside a night club, a grown man was sitting on top of a younger woman, beating her up.|5|4|5        2)At the death of a close relative.|4|4|5
-1)My mother and her friends were speaking badly about my father when they were separated, and my brothers and sisters and myself were allowed to listen.|3|4|5        2)A nightmare.  I was dreaming about bloodsuckers, which I tried to shake off from my body, they are everywhere, they get glued, they suck.  And there are a lot of them.  I panic.|5|1|5
-1)I wandered by mistake into the safety zone of a shooting range, and was shot at.|2|2|5        2)I was very fat and felt absolutely unwell. I was afraid of leaving the house and getting to know new people.|6|4|5
-1)At the dentist's, waiting for my turn to come.|2|2|5        2)[ No response.]|7|0|5
-1)My fiancee and I were at my parent's place watching TV. There were  only two TV-chairs and we were sitting on them when my drunken brother came in and rudely chased my fiancee off the chair she was sitting on.|3|3|5        2)When my husband and I decided to take a few days holiday after a particularly trying period.|1|2|5
-1)Unjust accusations directed at me and my way of acting, by someone close to me.  |3|2|5        2)Quarreling with my father, when he made false assertions.|5|4|5
+Score:-1  1)Finding out that I can go to your English lectures.|5|  2)I felt that I contributed to a possible rift in the relationship between a boy and girl soon to be married, in my flat after I moved in. After stating my celibacy to him which she overheard and didn't previously know about I suspect.|5|
+Score: 0  1)When I failed the  grade 7 exams.|5|  2)A patient, to whom I had given a powerful medicine, shouted at me in front of many people.  I realized that he did so because he was very ill.|5|
+Score:+1  1)When I had to move away from home to study, and I knew that I would not be coming back home for a long time.|5|  2)My little brother was arrested by the police at the railway station after he had drunk some beer.|5|
+Score:+1  1)A chief was unjustly punished on an autumn brigade and the one who was really guilty kept silent. I stepped in front and told the truth. The guilty chief called me in after the roll-call and threatened me.|5|  2)My boyfriend finished our relationship when I started studying psychology in Nijegen, because then we would not be able to meet frequently anymore.|5|
+Score:-1  1)When my grandfather whom I had met only once for 3 weeks, died after several months. I was really sad because he was a lovely person and I did not have the means for his company.|5|  2)I was entrusted with an object and while using it I handled it carelessly and it broke.|5|
+Score:+1  1)I promised my mother to come home on her birthday, but at last I was prevented. Nevertheless it would have been possible to go but I did not.|5|  2)In a play (secret friend) during the time of the high school I had to give a present to a boy and I was very ridiculous because of this.|5|
+Score:-2  1)I failed an exam which I thought I would certainly pass.|5|  2)When I was dreaming that I was being chased, in the upmost of horror the door of the closed felt down synchronicaly with the dream scare.|5|
+Score:+2  1)My good friend misunderstood me.|5|  2)I was listening to a priest in church saying how sinful man was, and how all men should renounce their desires and pleasures to please God. I could never understand how something that brings you joy could be a sin.|5|
+Score:-2  1)Eating biscuits and drinking Milo (Chocolate energy drink made with milk and usually drunk warm) with my friend at College. We get on really well, don't withold any feelings about each other's friends and are pretty good at cheering each other up when we are homesick.|5|  2)When I came to know that my feelings for someone were not reciprocated.|5|
+Score:+2  1)As I was not paying attention, my little brother fell off the table.|5|  2)Breaking up with a girl.|5|
+Score: +1
 
 Samples from the different cluster: 
-1)I had a long discussion on politics with an acquaintance.  He was more knowledgeable than me and I failed to explain my point of view and was misunderstood so I felt depressed and left.|4|4|5        2)When I am dishonest to a friend to whom I am very close.  I feel guilty because I know that he gives a different version of the truth and I have not corrected these mistakes, and he is aware that I know that they are wrong.|7|4|0
-1)I failed to show up at an agreed date.|7|2|5        2)Quarrelled with my younger brother.|3|4|1
-1)I was nearly knocked down while I was cycling.|2|3|5        2)When my friends did not ask me to go to a New Year's party with them.|4|4|2
-1)My husband had gone to drive a strange, broken car.  At the agreed time, he had not returned, and I feared that he had had an accident.|2|3|5        2)A saturday night a bus full of drunken people.|5|2|3
-1)My mother, sister and I were thinking about old times, our childhood, and we had a very happy time.|1|4|5        2)The cat of my landlady escaped through the window which I had left open.|7|3|4
+Score:-1  1)I was alone at home on New Year's Eve.|5|  2)I had a very heavy work load and two colleagues, whom I have nothing against, disturbed me by \terror ringing\", i.e á|0|
+Score:-2  1)I worked together with another student on a computer-assignment. She didn't do her best and didn't prepare herself for it. She expected me to explain it to her.|5|  2)A colleague and I were sitting on a bench next to an old man in a shopping centre. the old man coughed and spluttered somewhat, then with his fingers removed the resultant phlegm and mucous from his mouth, and transferred it onto the armrest of the bench.|1|
+Score:-1  1)I complained about a colleague's behaviour as she goes back on her word, is often absent and is irresponsible.  I found out that she was an alcoholic and was trying to fight againt her addiction.|5|  2)I should have given a test lesson to get a job. I had no courage. I didn't make the test.|2|
+Score:+1  1)I was with a group of people and everybody told me to do or say something.  It was a confusing, strong and traumatic situation for me.|5|  2)I went to a fair where a guy who was drunk kept bothering me and in the end I got really angry.|3|
+Score:+1  1)I was ashamed when my boyfriend went to sit with another girl when he invited me to come to watch Drama festival.|5|  2)When the literature teacher made me recite a poem in the middle of the class and I had to gesticulate.|4|
+Score:-2  1)Seeing this badly made questionnaire.|5|  2)I felt fear when I sat for one of my exams. Though my fear was not quite justifiable, I still remember about it.|6|
+Sum: -3
 
+
+k means label: 6 
+Samples from the same cluster: 
+Score:+2  1)When a very near person got into an awkward situation but showed only helplessness and indecision.|6|  2)I was really pissed when the Russians boycotted the '84 Olympics. I had anger towards them and Jimmy Crter. I was very anxious to see it.|6|
+Score:-1  1)I thought I had taken a decision but I hesitated.|6|  2)I was afraid when my boyfriend came home because my parents disapproved him of his coming home. I thought they would chase me out of the house.|6|
+Score:+1  1)When I feel helpless after having tried to help someone without any result.|6|  2)Two guys were fighting murderously and I feared that one of them would be killed.|6|
+Score:+2  1)When I got the midterm exam results, the results were below average and were near the lowest.  I was scared of the final exam.|6|  2)When I was a child I hid under the sheets out of fear of darkness.|6|
+Score:+2  1)The night of a high school dance, I went partying and collided with another car. Both cars were totalled; people were injured but not seriously.|6|  2)Loneliness, being uncertain of myself in the Autumn.|6|
+Score:-2  1)The only event I can remember is having a nightmare when I was very young (3 years old) I dreamt about a machine which was going to crush me.|6|  2)I felt fear when one night my aunt and Uncle left me alone at their house to look after the baby when they went to a party.|6|
+Score:+2  1)I felt fear once, when the car in which I travelled directed towards the precipice along the road.|6|  2)Before getting back the results of a test in school, when I had worked very hard and was worried about not succeeding.|6|
+Score:+1  1)When a friend of me came for an unexpected visit.|6|  2)When I felt that an exam, which I had feared, was an easy one and went well.|6|
+Score:+1  1)While trying to get my little brother over a ditch, he fell on his head and started crying.  I was scared of having caused him permanent injury.|6|  2)I was living in rooms in a very lonely, quiet neigbourhood. During the night it was very silent and this frightened me. The fact of being alone in that house frightened me.|6|
+Score:-2  1)The only event I can remember is having a nightmare when I was very young (3 years old) I dreamt about a machine which was going to crush me.|6|  2)When I decided my first marriage had ended, and left with the child. I felt overwhelmed by guilt as I was separating mother and child.|6|
+Sum:6
+
+Samples from the different cluster: 
+Score:-2  1)When I was chased by a big dog near my house.|6|  2)It was last week on Sunday that I was walking with my girlfriend along Kawale road going to town so I tried to stop a car for a lift and the driver didn't stop and I felt shame because people were looking at us.|0|
+Score:-2  1)Assaulted by drunken neighbour.|6|  2)After a long time I saw my boy-friend again. |1|
+Score:-2  1)While walking in town I noticed how the police harrassed a man who was under the influence of alcohol.  They terrified him with the thought of arrest by driving close behind him on a pedestrian street.  My disgust was directed at the gestures and the facial expressions of the policemen; they seemed to be enjoying themselves.|6|  2)I was very happy when I got an attractive Summer job.|2|
+Score:-2  1)At noon one Sunday I received a phone call telling me that my mother had been knocked down by a car at the street crossing and that her husband should go and see her.  I could not believe this as my father and my mother had gone out together to buy lunch boxes.  However I immediately ran to the scene of the accident.|6|  2)Disgust at myself when I stroked a sleeping girl's private parts.|3|
+Score:-1  1)Our teacher had invited us to lunch and once at the canteen we started introducing ourselves.  Two of the boys showed a lot of interest in knowing personal details and then they started talking about some activities held in the college.  I had little interest in those activities so I talked to another student sitting next to me as I was afraid that they would ask me questions on those activities.|6|  2)When my library books were overdue and I did not have the money to pay for them.|4|
+Score:+2  1)I have been afraid several times. What marked me was that I almost didn't enter University.|6|  2)It was a week before the higher level results were announced.  I had tried and failed many times and this was the last time that I was taking the exam.  I knew that if i failed again I woulld have to enter the society.  I imagined things during this period - I dreamt that I had entered university and it was a nice experience.  When I thought about the future, an unexplainable fear rose in me.  I feared being a worker and not having a bright prospect, I also feared the criticism of my relatives as my brother had gone to university.  Whenevr I thought of this issue I could not eat or concentrate, and my heart beat increased.|5|
+Sum: -7
 
 
