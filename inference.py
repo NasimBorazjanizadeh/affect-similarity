@@ -11,6 +11,7 @@ sys.path.append("/home/nasim/project/affect-similarity/py_isear_dataset")
 from py_isear.isear_loader import IsearLoader
 import pandas as pd
 import random
+from collections import Counter
 
 #setting uop the pipelines for inference from the two emotion classification models
 device = torch.device(0) if torch.cuda.is_available() else torch.device("cpu")
@@ -108,20 +109,25 @@ t_vectors_go = transform_vectors(vectors_go)
 t_vectors_dair = transform_vectors(vectors_dair)
 
 
-#finding the number of k_means clusters with the least amount of inertia and min number of classifications    
-wcss = [] 
-for i in range(1, 11): 
-    kmeans = KMeans(n_clusters = i, init = 'k-means++', random_state = 42)
-    kmeans.fit(vectors_both) 
-    wcss.append(kmeans.inertia_)
+#finding the number of k_means clusters with the least amount of inertia and min number of classifications 
+def find_least_inertia_k_means(vectors, filename, x_line):   
+    wcss = [] 
+    for i in range(1, 11): 
+        kmeans = KMeans(n_clusters = i, init = 'k-means++', random_state = 1)
+        kmeans.fit(vectors) 
+        wcss.append(kmeans.inertia_)
+        
+    clusters = [i for i in range(1, 11)]
+    plt.plot(clusters, wcss)
+    plt.axvline(x=x_line, linestyle="dashed", color='red') 
+    plt.savefig(filename)
+    plt.close()
     
-clusters = [i for i in range(1, 11)]
-plt.plot(clusters, wcss)
-plt.axvline(x=6, linestyle="dashed", color='red') 
-filename = 'cluster_inertia_go_and_dair'
-plt.savefig(filename+'.png')
-plt.close()
-N_CLUSTERS = 6
+find_least_inertia_k_means(vectors_both, 'cluster_inertia_go_and_dair.png', 7)
+find_least_inertia_k_means(vectors_go, 'cluster_inertia_go.png', 7)
+find_least_inertia_k_means(vectors_dair, 'cluster_inertia_dair.png', 7)
+
+N_CLUSTERS = 7
 
 def calculate_kmeans_draw_plt(vectors, t_vectors, filename):
     """calculates the k_means for each of the multidimensional classification data represnting
@@ -145,7 +151,7 @@ def calculate_kmeans_draw_plt(vectors, t_vectors, filename):
     kmeans.fit(vectors)
     k_labels = kmeans.labels_
     sns.scatterplot(x = t_vectors[0], y = t_vectors[1], hue=kmeans.labels_, 
-                    palette=['green','orange','brown','dodgerblue','red', "black"], s = 10)
+                    palette=['green','orange','brown','dodgerblue','red', "black", "purple"], s = 10)
     plt.savefig(filename+'.png')
     plt.close()
     return k_labels
@@ -153,6 +159,42 @@ def calculate_kmeans_draw_plt(vectors, t_vectors, filename):
 k_lables_both = calculate_kmeans_draw_plt(vectors_both, t_vectors_both, 'k_means_both')
 k_lables_go = calculate_kmeans_draw_plt(vectors_go, t_vectors_go, 'k_means_go')
 k_lables_dair = calculate_kmeans_draw_plt(vectors_dair, t_vectors_dair, 'k_means_dair')
+
+def label_histograms(k_labels, filename):
+    """Draws the histogram of the relative frequency of target emotions in the ISEAR dataset in the each cluster 
+    of the given k-means result.
+
+    Args:
+        k_labels (list[int]): the k-means label for each data entry in the ISEAR dataset
+        filename (str): where to store the histogram
+    """
+    seperated_labels = [[] for i in range(N_CLUSTERS)]
+    for i in range(len(k_labels)):
+        seperated_labels[k_labels[i]].append(i)
+
+    #used instead of counter() to ensure all labels are listed in the histogram
+    #even if the count for that lable is 0
+    base_dict_counts = {i:0 for i in range(1, 8)}
+    counts = [base_dict_counts.copy() for i in range(N_CLUSTERS)]
+    for i in range(N_CLUSTERS):
+        for j in range(len(seperated_labels[i])):
+            index = seperated_labels[i][j]
+            real_label_index = real_labels[index][0]
+            counts[i][real_label_index] += 1
+    
+    target_labels = ["joy", "fear", "anger", "sadness", "disgust", "shame", "guilt"]
+    
+    for i in range(N_CLUSTERS):
+        plt.bar(target_labels, counts[i].values())
+        plt.title(filename+ str(i))
+        plt.xlabel("target emotion labels in ISEAR dataset")
+        plt.ylabel("number of samples in cluster {} with each emotion label".format(i))
+        plt.savefig("histograms/" + filename+ str(i) + '.png')
+        plt.close()
+        
+label_histograms(k_lables_both, "both_histogram_cluster_")
+label_histograms(k_lables_go, "go_histogram_cluster_")   
+label_histograms(k_lables_dair, "dair_histogram_cluster_") 
 
 
 def draw_random_from_clusters(k_labels, file_name):
@@ -172,22 +214,24 @@ def draw_random_from_clusters(k_labels, file_name):
             res = "k means label: {} \n".format(i)
             res += "Samples from the same cluster: \n"
             for _ in range(10):
-                rand_i = random.randint(0, len(seperated_labels[i]))
-                rand_j = random.randint(0, len(seperated_labels[i]))
+                rand_i = random.randint(0, len(seperated_labels[i])-1)
+                rand_j = random.randint(0, len(seperated_labels[i])-1)
                 while rand_j == rand_i:
                     rand_j = random.randint(0, len(seperated_labels[i]))
-                res  += "1){}|{}|{}|{}        ".format(texts[rand_i], real_labels[rand_i][0], intensity[rand_i][0], i)
-                res  += "2){}|{}|{}|{}\n".format(texts[rand_j], real_labels[rand_j][0], intensity[rand_j][0], i)
+                res += "Score:  "
+                res += "1){}|{}|  ".format(texts[seperated_labels[i][rand_i]], i)
+                res += "2){}|{}|\n".format(texts[seperated_labels[i][rand_j]], i)
             
             res += "\n"  
             res += "Samples from the different cluster: \n"  
             for j in range(N_CLUSTERS):
                 if j == i:
                     continue
-                rand_i = random.randint(0, len(seperated_labels[i]))
-                rand_j = random.randint(0, len(seperated_labels[j]))
-                res  += "1){}|{}|{}|{}        ".format(texts[rand_i], real_labels[rand_i][0], intensity[rand_i][0], i)
-                res  += "2){}|{}|{}|{}\n".format(texts[rand_j], real_labels[rand_j][0], intensity[rand_j][0], j)
+                rand_i = random.randint(0, len(seperated_labels[i])-1)
+                rand_j = random.randint(0, len(seperated_labels[j])-1)
+                res += "Score:  "
+                res += "1){}|{}|  ".format(texts[seperated_labels[i][rand_i]], i)
+                res += "2){}|{}|\n".format(texts[seperated_labels[j][rand_j]], j)
                 
             res += "\n\n\n"
             f.write(res)
@@ -198,7 +242,6 @@ draw_random_from_clusters(k_lables_both, "samples_both.txt")
 draw_random_from_clusters(k_lables_go, "samples_go.txt")   
 draw_random_from_clusters(k_lables_dair, "samples_dair.txt")        
             
-
 
 
 
