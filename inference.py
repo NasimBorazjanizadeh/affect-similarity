@@ -83,6 +83,7 @@ with open("texts_and_labels.txt", mode="wt") as f:
 
 f.close()
 
+
 def transform_vectors(vectors):
     """Transforms the mutidimantional vectors (34 dimentions) representing each sample
     to a 2 dimentional vector using PCA (Principal Component Analysis) for visualizing 
